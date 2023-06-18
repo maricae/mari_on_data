@@ -1,9 +1,10 @@
 ## Lógica de Programação com Python para Data Science 
-Passo a passo de algumas dicas de como começar com os estudos de Python para quem quer focar na carreira de dados.
-O material contem exemplos de:
-- Lógica Básica, Print e Declarar variáveis;
-- Funções;
-- Listas;
-- Laços e Loops;
-- Booleano e;
-- Diferentes tipos em uma lista.
+Montei uma lista com 5 conceitos e aplicações para quem quer começar com os estudos de Python com o foco na carreira de dados.
+Adicionei alguns exemplos de como utilizamos esses conceitos no dia a dia de um profissional de dados.
+
+Apresento sobre:
+1- Tipos de Dados;
+2- Condições;
+3- Algumas funções básicas que COM CERTEZA você irá usar um dia;
+4- Construindo Funções;
+5- Laços e Loops.
