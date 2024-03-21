@@ -1,10 +1,3 @@
-## Lógica de Programação com Python para Data Science 💻 🎲
-Montei uma lista com 5 conceitos e aplicações para quem quer começar com os estudos de Python com o foco na carreira de dados.
-Adicionei alguns exemplos de como utilizamos esses conceitos no dia a dia de um profissional de dados.
-
-Apresento sobre:\
-**1-** Tipos de Dados;\
-**2-** Condições;\
-**3-** Algumas funções básicas que COM CERTEZA você irá usar um dia;\
-**4-** Construindo Funções;\
-**5-** Laços e Loops.
+## Mari on Data: Projeto de Democratização da Educação em Dados 💻 🎲
+![Terminal](https://miro.medium.com/v2/resize:fit:720/format:webp/1*eO7icDM1dtEXlmC7OPcT4Q.jpeg)
+Mari on Data é um projeto que busca compartilhar com meus seguidores das redes sociais sobre a área de dados, suas principais skills e carreira. Conto sobre minhas experiências, compartilho conteúdo técnico e dicas de estudo.
